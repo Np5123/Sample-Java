@@ -8,6 +8,10 @@ public class JavaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaApplication.class, args);
+<<<<<<< HEAD
+=======
+		System.out.println("Hellooooo Induuu1");
+>>>>>>> stash
 	}
 
 }
